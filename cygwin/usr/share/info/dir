@@ -154,6 +154,7 @@ Miscellaneous
 
 Network applications
 * Gawkinet: (gawkinet).         TCP/IP Internetworking With `gawk'.
+* Wget: (wget).                 Non-interactive network downloader.
 
 Programming
 * NASM: (nasm).                 The Netwide Assembler for x86.
